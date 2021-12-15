@@ -14,7 +14,8 @@ export = {
       + e.user + ' » Meus desenvolvedores:'
       + '\n \`Cauã#5683\`'
       + '\n \`ferb#9747\`'
-      + '\n \`Pitzinho#0001\`',
+      + '\n \`Pitzinho#0001\`'
+      + '\n :grin: » E sabia que sou open source? Veja clicando [aqui](https://github.com/tokyoBotDiscord/tokyo)',
       color: c['default'],
       footer: {
         text: 'Obrigada por me utilizar: ' + message.author.name, icon_url: 'https://images-ext-1.discordapp.net/external/Eg0AL_GN025yCGnsQqQ1X3NPkz2Bvj3NOKZPnvkNozM/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/920072004357472291/8a7fd489cb2474ae2c636bd906347e21.png?width=480&height=480'
