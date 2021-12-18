@@ -1,4 +1,6 @@
 ## **[WIP]** Tokyo™ — imagine *your* bot.
+<img src="https://img.shields.io/badge/license-MIT-lightgrey">
+<img src="https://img.shields.io/github/stars/tokyoBotDiscord/tokyo?style=social"> <img src="https://img.shields.io/github/forks/tokyoBotDiscord/tokyo?style=social"> <img src="https://badges.frapsoft.com/typescript/love/typescript.png?v=101"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 
 Tokyo is a simple Discord Bot, powered by **[TypeScript](https://www.typescriptlang.org/)** and **[Eris](https://abal.moe/Eris/)**.
 
