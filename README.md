@@ -1,16 +1,27 @@
-## Tokyo™ — imagine *your* bot.
+## **[WIP]** Tokyo™ — imagine *your* bot.
 
-Tokyo is a simple Discord Bot, powered by [TypeScript](https://www.typescriptlang.org/) and [Eris](https://abal.moe/Eris/).
+Tokyo is a simple Discord Bot, powered by **[TypeScript](https://www.typescriptlang.org/)** and **[Eris](https://abal.moe/Eris/)**.
 
 ## Our terms:
-```
-1. It's formally forbidden to use Tokyo's image to express wrong things.
-2. Selling, using the code is fully allowed, but you'll need to give the credits.
-```
+
+- It's formally forbidden to use Tokyo's image to express wrong things.
+- Selling, using the code is fully allowed, but you'll need to give the credits.
+
 ## Some more info!
 Resources used: 
-<p align="left"> <img src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/eris-%23323330.svg?style=for-the-badge&logo=discord&logoColor=blue"/>
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+
 </p>
 
+## Contribuiting
 
-### And finally... do you agree with the [license](https://github.com/inex1stent/tokyo/blob/main/LICENSE)?
+Did you like the project and would like to help? See how to contribute:
+
+- Fork this repository
+    - Go to your repository fork and make the desired changes.
+        - And open a pull request, we'll check the changes and that's it!
+
+### And finally... do you agree with the **[LICENSE](https://github.com/inex1stent/tokyo/blob/main/LICENSE)**?
+
+### Thanks for reading!
