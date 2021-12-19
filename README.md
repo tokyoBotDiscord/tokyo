@@ -23,6 +23,6 @@ Did you like the project and would like to help? See how to contribute:
     - Go to your repository fork and make the desired changes.
         - And open a pull request, we'll check the changes and that's it!
 
-### And finally... do you agree with the **[LICENSE](https://github.com/inex1stent/tokyo/blob/main/LICENSE)**?
+### And finally... do you agree with the **[LICENSE](https://github.com/tokyoBotDiscord/tokyo/blob/main/LICENSE)**?
 
 ### Thanks for reading!
